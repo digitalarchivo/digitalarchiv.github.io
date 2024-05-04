@@ -1,9 +1,9 @@
 ---
-title: "arthurhayes"
+title: "hayes"
 layout: category
-permalink: /categories/arthurhayes/
+permalink: /categories/hayes/
 author_profile: true
-taxonomy: arthurhayes
+taxonomy: hayes
 sidebar:
   nav: "categories"
 ---
